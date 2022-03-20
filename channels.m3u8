@@ -33,8 +33,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Undefined",MLB Network
 http://cdnrede.com:80/hugo123/123hugo/206584?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Sport",Root Sports
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3673?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",US Root Sports Northwest
+http://fortv.cc:8080/Rob/Rob2021/20942?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-chno="709" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",MLB
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="606b5ee42b54a100079dd593" tvg-chno="519" tvg-logo="https://images.pluto.tv/channels/606b5ee42b54a100079dd593/colorLogoPNG.png",Julia Child
